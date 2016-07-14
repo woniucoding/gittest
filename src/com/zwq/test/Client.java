@@ -20,7 +20,9 @@ public class Client {
 		  Facade f = new Facade();
 		  f.methodA();
 		  f.methodB();
-		  f.methodC() ;
+		  f.methodC() ;System.out.pringln("new line");
+
+
 	}
 	
 	/**
