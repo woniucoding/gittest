@@ -20,7 +20,13 @@ public class Client {
 		  Facade f = new Facade();
 		  f.methodA();
 		  f.methodB();
+<<<<<<< HEAD
 		  f.methodC() ;System.out.println("new lnne  local");
+=======
+		  f.methodC() ;System.out.pringln("new line");
+
+
+>>>>>>> origin/master
 	}
 	
 	/**
