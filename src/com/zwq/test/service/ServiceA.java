@@ -4,7 +4,7 @@ public interface ServiceA {
 	/**
 	 * ServiceA 的A方法
 
-bujiu
+	 * ServiceA 的A方法 zhenniu
 	 * */
 	public void methodA() ;
 }
