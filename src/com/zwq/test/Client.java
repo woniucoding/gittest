@@ -21,6 +21,8 @@ public class Client {
 		  f.methodA();
 		  f.methodB();
 		  f.methodC() ;System.out.println("new lnne  local");
+		  
+		  //hahahaha
 	}
 	
 	/**
